@@ -1,0 +1,50 @@
+body{
+    background-color: #F7F9F9;
+}
+
+
+
+
+.logo{
+    display: flex;      
+    justify-content: center;             
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.logo img {
+    width: 200px;
+}
+.logo h2 {
+    color:#2E3192;
+}
+.Estudiante{
+  display: flex;
+  justify-content: center;
+}
+
+.info{
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.info button{
+    background-color: #E7A82E;
+    border-radius: 15px;
+   border-color: #2E3192;
+   font-size: 15px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+}
